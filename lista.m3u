@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Aberta",SBT TV
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GloboSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberta",Globo TV
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5309
+
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Fechada",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoBrazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Fechada",Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
