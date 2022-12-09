@@ -1,58 +1,58 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Aberta",SBT TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/68532?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923395?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/57255?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5316?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="GloboSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberta",Globo TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5365?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5309?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="BandTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Aberta",Band TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453195?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453186?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CartoonNetworkBrazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Fechada",Cartoon Network
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5199?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5047?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CartoonitoBrazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Fechada",Cartoonito
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5196?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17924?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gloob_logo_%28blue%29.svg" group-title="Fechada",GLOOB
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5227?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5076?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Fechada",Discovery Kids
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5206?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5054?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="Fechada",Disney Channel
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5211?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5059?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="Nicklodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="Fechada",Nicklodeon
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5248?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Fechada",HBO
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355045?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355046?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="CNNBR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="Fechada",CNN Brasil
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5285?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5158?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="JPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Jovem_Pan_News_Marca_2022.jpg" group-title="Fechada",Jovem Pan News
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465361?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465362?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Aberta",Animal Planet
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5191?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5042?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecineAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="Fechada",Telecine Action
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5268?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5116?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecineCult" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telecine_Cult_2019.png" group-title="Fechada",Telecine Cult
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5269?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5117?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecineFun" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="Fechada",Telecine Fun
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5270?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5118?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="Fechada",Telecine Pipoca
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5271?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecinePremium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="Fechada",Telecine Premium
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5272?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5120?checkedby:iptvcat.com
