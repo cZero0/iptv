@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Aberta",SBT TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/923395?checkedby:iptvcat.com
+http://srv1.streamx8.tech:80/NENE37/NENE78/252666.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5316?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="GloboSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Aberta",Globo TV
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5309?checkedby:iptvcat.com
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401671158470115621949416710720705404185816jI5O3gmMezu3Czlg5JYsTA/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=180,i=2)/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF:-1 tvg-id="BandTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg" group-title="Aberta",Band TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453186?checkedby:iptvcat.com
