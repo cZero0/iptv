@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg" group-title="Aberta",SBT TV
+#EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/sbt.png" group-title="Aberta",SBT TV
 http://srv1.streamx8.tech:80/NENE37/NENE78/252666.ts
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="Aberta",Record TV
