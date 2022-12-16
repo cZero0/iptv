@@ -13,16 +13,16 @@ http://51.222.31.198/hls/s:51.15.123.117/globosphd_3a69aa1b_d46dacf5335911ab7538
 http://51.222.31.198/hls/s:51.15.41.121/band_49e3d046_e9f9ddd222bb70244bcd9e16b417b550d396595e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkBrazil" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/CartoonNetworkBrazil.png" group-title="Fechada",Cartoon Network
-https://server100.online/cartoon/video.m3u8?token=2bb4feca44f3d412f6aed1815340283dd87bd294-3aa25efa79bea8b4c02dbed91dfbe01d-1671230017-1671226417&remote=45.191.135.99
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108681
 
 #EXTINF:-1 tvg-id="CartoonitoBrazil" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/CartoonitoBrazil.png" group-title="Fechada",Cartoonito
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/17924?checkedby:iptvcat.com
+http://199.127.60.83:14682/
 
 #EXTINF:-1 tvg-id="Gloob" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/Gloob.png" group-title="Fechada",GLOOB
 http://51.222.31.198/hls/s:51.158.185.27/gloob_04f1241e_ba8c17b8d5a3cd9eb6444f8b0d477d1f87e2253a/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryKids" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/DiscoveryKids.png" group-title="Fechada",Discovery Kids
-http://51.222.31.198/hls/s:51.158.172.111/discoverykids_80e28a51_b54e506613ca0d755cbf517ed605d8290ff269a2/playlist.m3u8
+http://b5.vc:80/022773/J2AUU4/71831.ts
 
 #EXTINF:-1 tvg-id="DisneyChannel" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/DisneyChannel.png" group-title="Fechada",Disney Channel
 http://51.222.31.198/hls/s:51.158.185.27/disneychannel_a9334987_b533753d27670e88d62f727db4e6455f1ffa7729/playlist.m3u8
@@ -37,22 +37,22 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/355046?checkedby:iptvcat.com
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5158?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="JPN" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/JPN.png" group-title="Fechada",Jovem Pan News
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465362?checkedby:iptvcat.com
+http://172.93.110.132:14240/
 
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/AnimalPlanet.png" group-title="Aberta",Animal Planet
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5042?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="TelecineAction" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecineAction.png" group-title="Fechada",Telecine Action
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5116?checkedby:iptvcat.com
+http://51.83.238.223:16703/
 
 #EXTINF:-1 tvg-id="TelecineCult" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecineCult.png" group-title="Fechada",Telecine Cult
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5117?checkedby:iptvcat.com
+http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="TelecineFun" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecineFun.png" group-title="Fechada",Telecine Fun
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5118?checkedby:iptvcat.com
+http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16756
 
 #EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecinePipoca.png" group-title="Fechada",Telecine Pipoca
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5271?checkedby:iptvcat.com
+http://51.83.238.223:16763/
 
 #EXTINF:-1 tvg-id="TelecinePremium" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecinePremium.png" group-title="Fechada",Telecine Premium
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5120?checkedby:iptvcat.com
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5120
