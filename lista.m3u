@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/SBTSPTV.png" group-title="Aberta",SBT TV
-http://srv1.streamx8.tech:80/NENE37/NENE78/252666.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671240939/ei/isicY_7COvHo1AHRj7nwDg/ip/45.191.135.99/id/ABVQXgr2LW4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgccD2zpcRda-VVu-NGqRNdi0ZENI0rxrRPrsVCmyYegECIQDLH5a7iGUGU1yBRlBdR919aNlrJGVJhsxOI5SVdiRk7A%3D%3D/file/index.m3
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/RecordTV.png" group-title="Aberta",Record TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5316?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="GloboSPTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/GloboSPTV.png" group-title="Aberta",Globo TV
-https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401671158470115621949416710720705404185816jI5O3gmMezu3Czlg5JYsTA/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=180,i=2)/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401671239155166069434916711527559489878735EXS1Uexh3YziPGJGh2vuLA/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=180,i=2)/globo-sp1/globo-sp1-audio_1=96000-video=2262976.m3u8?dvr_window_length=180
 
 #EXTINF:-1 tvg-id="BandTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/BandTV.png" group-title="Aberta",Band TV
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/453186?checkedby:iptvcat.com
