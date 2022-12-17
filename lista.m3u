@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SBTSPTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/SBTSPTV.png" group-title="Aberta",SBT TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1671240939/ei/isicY_7COvHo1AHRj7nwDg/ip/45.191.135.99/id/ABVQXgr2LW4.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgccD2zpcRda-VVu-NGqRNdi0ZENI0rxrRPrsVCmyYegECIQDLH5a7iGUGU1yBRlBdR919aNlrJGVJhsxOI5SVdiRk7A%3D%3D/file/index.m3
+http://209.222.97.92:16173/
 
 #EXTINF:-1 tvg-id="RecordTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/RecordTV.png" group-title="Aberta",Record TV
 http://51.222.31.198/hls/s:51.15.123.117/record_3554dce5_c645faa4895aca1f1cf142293fdcaa99ae802399/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloboSPTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/GloboSPTV.png" group-title="Aberta",Globo TV
-http://51.222.31.198/hls/s:51.15.123.117/globosphd_3a69aa1b_d46dacf5335911ab75387a8585e09d9c1a71b69c/playlist.m3u8
+http://15.235.55.115:14074
 
 #EXTINF:-1 tvg-id="BandTV" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/BandTV.png" group-title="Aberta",Band TV
 http://51.222.31.198/hls/s:51.15.41.121/band_49e3d046_e9f9ddd222bb70244bcd9e16b417b550d396595e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkBrazil" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/CartoonNetworkBrazil.png" group-title="Fechada",Cartoon Network
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108681
+http://199.127.60.83:14687
 
 #EXTINF:-1 tvg-id="CartoonitoBrazil" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/CartoonitoBrazil.png" group-title="Fechada",Cartoonito
-http://199.127.60.83:14682/
+http://199.127.60.83:14682
 
 #EXTINF:-1 tvg-id="Gloob" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/Gloob.png" group-title="Fechada",GLOOB
 http://51.222.31.198/hls/s:51.158.185.27/gloob_04f1241e_ba8c17b8d5a3cd9eb6444f8b0d477d1f87e2253a/playlist.m3u8
@@ -49,7 +49,7 @@ http://51.83.238.223:16703/
 http://172.93.110.132:14358/
 
 #EXTINF:-1 tvg-id="TelecineFun" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecineFun.png" group-title="Fechada",Telecine Fun
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16756
+http://172.93.110.132:14361/
 
 #EXTINF:-1 tvg-id="TelecinePipoca" tvg-logo="https://raw.githubusercontent.com/cZero0/iptv/main/logo/TelecinePipoca.png" group-title="Fechada",Telecine Pipoca
 http://51.83.238.223:16763/
